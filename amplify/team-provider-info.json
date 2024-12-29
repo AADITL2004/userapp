@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clriappmain-dev-8786e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418002872:role/amplify-clriappmain-dev-8786e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418002872:role/amplify-clriappmain-dev-8786e-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-clriappmain-dev-8786e-deployment",
+      "UnauthRoleName": "amplify-clriappmain-dev-8786e-unauthRole",
+      "StackName": "amplify-clriappmain-dev-8786e",
+      "StackId": "arn:aws:cloudformation:ap-south-1:905418002872:stack/amplify-clriappmain-dev-8786e/9037a570-8911-11ef-8a43-0a90a7db53e1",
+      "AmplifyAppId": "d3no3jp7jcnyt6"
+    },
+    "categories": {
+      "auth": {
+        "clriappmain69600df3": {}
+      }
+    }
+  }
+}
